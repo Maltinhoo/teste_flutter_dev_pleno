@@ -1,16 +1,40 @@
-# teste_dev_pleno
+# Flutter Development Test
 
-A new Flutter project.
+## Objetivo
 
-## Getting Started
+O objetivo deste teste é avaliar minhas habilidades em desenvolvimento de aplicativos utilizando o framework Flutter, bem como as habilidades de documentação e versionamento utilizando o GitHub.
 
-This project is a starting point for a Flutter application.
+## Tarefas
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Criação de Interface de Usuário
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Tela Inicial
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Integração com API
+
+## Instalação e Configuração
+
+### Pré-requisitos
+
+- Flutter SDK: [Instalação do Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK: Incluído com a instalação do Flutter
+- Editor de código recomendado: [Visual Studio Code](https://code.visualstudio.com/) com as extensões Flutter e Dart
+
+### Passos para Configuração
+
+1. Clone o repositório do projeto:
+   ```bash
+   git clone https://github.com/Maltinhoo/teste_flutter_dev_pleno
+   cd teste_flutter_dev_pleno
+   ```
+
+2. Instale as dependências do projeto:
+   ```bash
+   flutter pub get
+   ```
+
+3. Execute o aplicativo:
+   ```bash
+   flutter run
+   ```
+
