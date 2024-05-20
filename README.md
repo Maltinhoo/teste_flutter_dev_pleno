@@ -40,8 +40,8 @@ O objetivo deste teste é avaliar minhas habilidades em desenvolvimento de aplic
 
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Maltinhoo/teste_flutter_dev_pleno)
+   cd teste_flutter_dev_pleno
    ```
 
 2. Instale as dependências do projeto:
