@@ -2,14 +2,7 @@
 
 ## Objetivo
 
-O objetivo deste teste é avaliar as habilidades do candidato em desenvolvimento de aplicativos utilizando o framework Flutter, bem como suas habilidades de documentação e versionamento utilizando o GitHub.
-
-## Instruções
-
-- Este teste consiste em várias tarefas que devem ser completadas em um prazo de 3 dias.
-- O candidato deve criar um repositório público no GitHub para o projeto.
-- O código deve ser organizado, limpo e comentado sempre que necessário.
-- Além do código, o candidato deve documentar o projeto em um arquivo README.md fornecendo instruções claras sobre como instalar, configurar e executar o aplicativo.
+O objetivo deste teste é avaliar minhas habilidades em desenvolvimento de aplicativos utilizando o framework Flutter, bem como as habilidades de documentação e versionamento utilizando o GitHub.
 
 ## Tarefas
 
@@ -25,6 +18,15 @@ O objetivo deste teste é avaliar as habilidades do candidato em desenvolvimento
 - Crie uma tela inicial com um AppBar contendo o título "Bem-vindo!".
 - Adicione um botão "Logout" na AppBar, que, ao ser clicado, redireciona o usuário de volta para a tela de login.
 
+### 3. Integração com API
+
+- Conecte a aplicação a uma API de teste (pode ser uma API pública como JSONPlaceholder ou qualquer outra de sua escolha).
+- Faça uma requisição à API para obter uma lista de objetos (por exemplo, posts, usuários, etc.).
+- Exiba os dados obtidos da API em uma lista na tela inicial. Cada item da lista deve mostrar pelo menos duas informações relevantes (por exemplo, título e conteúdo do post).
+
+### 4. Funcionalidade Adicional (Bônus)
+
+- Implemente uma funcionalidade adicional à sua escolha para melhorar a experiência do usuário (por exemplo, filtro de pesquisa, paginação, animações, etc.).
 
 ## Instalação e Configuração
 
@@ -51,12 +53,4 @@ O objetivo deste teste é avaliar as habilidades do candidato em desenvolvimento
    ```bash
    flutter run
    ```
-
-
-## Comentários sobre o Código
-
-- **main.dart**: Contém a função principal `main` e configurações iniciais de rotas.
-- **login_screen.dart**: Implementa a interface de login e validação de campos.
-- **home_screen.dart**: Contém a tela inicial e a lógica de exibição dos dados obtidos da API.
-
 
