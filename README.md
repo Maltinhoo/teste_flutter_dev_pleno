@@ -8,25 +8,9 @@ O objetivo deste teste é avaliar minhas habilidades em desenvolvimento de aplic
 
 ### 1. Criação de Interface de Usuário
 
-- Crie uma tela de login com campos para e-mail e senha.
-- Implemente a validação dos campos (o e-mail deve ser válido e a senha deve ter pelo menos 6 caracteres).
-- Adicione um botão de login que, ao ser clicado, valide os campos e exiba uma mensagem de erro se as credenciais forem inválidas.
-- Após o login bem-sucedido, redirecione o usuário para uma tela inicial.
-
 ### 2. Tela Inicial
 
-- Crie uma tela inicial com um AppBar contendo o título "Bem-vindo!".
-- Adicione um botão "Logout" na AppBar, que, ao ser clicado, redireciona o usuário de volta para a tela de login.
-
 ### 3. Integração com API
-
-- Conecte a aplicação a uma API de teste (pode ser uma API pública como JSONPlaceholder ou qualquer outra de sua escolha).
-- Faça uma requisição à API para obter uma lista de objetos (por exemplo, posts, usuários, etc.).
-- Exiba os dados obtidos da API em uma lista na tela inicial. Cada item da lista deve mostrar pelo menos duas informações relevantes (por exemplo, título e conteúdo do post).
-
-### 4. Funcionalidade Adicional (Bônus)
-
-- Implemente uma funcionalidade adicional à sua escolha para melhorar a experiência do usuário (por exemplo, filtro de pesquisa, paginação, animações, etc.).
 
 ## Instalação e Configuração
 
